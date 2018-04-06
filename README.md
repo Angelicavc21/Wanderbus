@@ -41,7 +41,7 @@ En esta sección empezamos a entender los problemas del usuario. Es por eso que 
  [4]: assets/img/form4.PNG
  [5]: assets/img/form5.PNG
 
- A continuación se muestra la página, donde se encontrarán fotos de las encuestas para al realización del proyecto, y los insights obtenidos de las encuestas:
+A continuación se muestra la página, donde se encontrarán fotos de las encuestas para al realización del proyecto, y los insights obtenidos de las encuestas:
 
   [LINK](https://mariaruizq.github.io/wanderBus-prototype/).
 
@@ -197,12 +197,9 @@ Viajaremos, viajaremos y el mundo conquistaremos <3
 (​Elige: ‘¡Comprar!’ )
 
 ¿Es tu primera vez con nosotros? Por favor, regístrate para brindarte la mejor seguridad al ejecutar la compra
-
-* Facebook
-
-* Gmail
-
-* Correo
+   - Facebook  
+   - Gmail
+   - Correo
 
 Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo uses en tu primer viaje con nosotros!
 
@@ -229,7 +226,7 @@ Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo 
 * Ingresa tu código de seguridad para seguir con la compra
 (​Ingresa: ‘código de compra’ ​)
 
-¡Yay! La compra ha sido exitosa.  Te estamos enviando los pasajes al correo con el que te registraste. En la sección “Mis Viajes” encontraras tu pasaje digital para que lo descargues o compartas en tus redes.
+¡Ya! La compra ha sido exitosa.  Te estamos enviando los pasajes al correo con el que te registraste. En la sección “Mis Viajes” encontraras tu pasaje digital para que lo descargues o compartas en tus redes.
 
 ¡Listo! Ahora solo falta hacer las maletas.
 La familia de Wanderbus te desea un feliz viaje!
